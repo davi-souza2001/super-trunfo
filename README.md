@@ -1,2 +1,2 @@
 # super-trunfo
-Game Super Trunfo.
+A Super Trump game, based on the Dev - ALura Immersion code.
